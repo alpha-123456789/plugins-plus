@@ -4,7 +4,7 @@ import { join } from 'path';
 
 // Generate sitemap.xml from marketplace catalog
 export const GET: APIRoute = async () => {
-  const siteUrl = 'https://tonsofskills.com';
+  const siteUrl = 'https://claudecodeplugins.io';
 
   // Load marketplace catalog
   const catalogPath = join(process.cwd(), '../.claude-plugin/marketplace.json');

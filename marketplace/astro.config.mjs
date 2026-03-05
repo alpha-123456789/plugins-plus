@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://tonsofskills.com',
+  site: 'https://claudecodeplugins.io',
   base: '/',
   redirects: {
     // Fix 404s from deleted Learning Lab pages (Jan 2026)
